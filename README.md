@@ -1,5 +1,6 @@
 <div align="center">
 ![logo](./assets/amigo-secreto.png)
+
 # SORTEAR AMIGO SECRETO
 </div>
 :mortar_board: Esse projeto é o Desafio de Código do Programa Oracle Next Education (ONE), promovido pela parceria entre a Oracle e a Alura.
