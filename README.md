@@ -16,5 +16,5 @@
 - O projeto é ideal para poucos nomes.
 
 :construction_worker: Autores do Projeto:
-HTML e CSS - Oracle/Alura
-JavaScript - Bruno Rigueti Brandão
+HTML e CSS - Oracle/Alura;
+JavaScript - Bruno Rigueti Brandão.
